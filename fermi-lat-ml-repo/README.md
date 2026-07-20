@@ -11,8 +11,6 @@ candidates among the unassociated and BCU populations.
 ```
 code/           Analysis pipeline, run in numeric order (see code/README.md)
 data/           Output prediction tables (probabilistic classification catalogues)
-figures/        All manuscript figures (fig1-fig9, PDF)
-manuscript/     manuscript.tex and compiled manuscript.pdf
 requirements.txt   Pinned Python package versions for exact reproducibility
 ```
 
