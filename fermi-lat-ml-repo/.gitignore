@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Large input catalogue (not distributed — see README for download link)
+gll_psc_v35.fit
+4fgl_dr4_features.csv
+
+# LaTeX build artifacts
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.out
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.toc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
