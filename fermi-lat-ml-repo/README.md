@@ -45,16 +45,11 @@ pipeline:
 - `bcu_predictions.csv` — posterior class probabilities for all 1,623
   blazar-candidate-of-uncertain-type (BCU) sources
 
-## Manuscript
 
-The full manuscript (submitted to MNRAS) is in `manuscript/manuscript.tex`
-/ `manuscript.pdf`.
 
 ## Citation
 
-If you use this code or the resulting catalogues, please cite the
-manuscript in `manuscript/` (citation details to be added upon
-publication/arXiv posting).
+WIll be updated
 
 ## License
 
